@@ -1,0 +1,55 @@
+@import "../../styles/global.scss";
+
+.posts {
+  padding: 4rem;
+  background: #fff;
+}
+
+.cardContainer {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  // align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 5rem;
+  box-shadow: 1px 1px 7px 1px;
+}
+
+.cardWrapper {
+  position: relative;
+  margin: 50px 0 45px;
+
+}
+
+.cardItems {
+  margin-bottom: 24px;
+}
+
+.cardItem {
+  // display: flex;
+  // flex: 1;
+  margin: 0 1rem;
+  border-radius: 10px;
+}
+
+.pageDiv {
+  display: flex;
+  justify-content: center;
+
+  li {
+    margin: 10px;
+  }
+
+  .clicked {
+    background-color: $gray;
+  }
+}
+
+.Link {
+  border: 1px solid black;
+  padding: 5px;
+  float: right;
+  text-decoration: none;
+}

@@ -1,0 +1,458 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "초간단 콩나물밥",
+      "content": "찬밥 두공기를 그릇에 담고, 각각의 그릇위에 씻어 물기제거한 콩나물을 100g씩 올려주세요. 그런다음, 랩을 씌워 구멍을 쏭쏭내준뒤 전자레인지에서 7~8분정도 돌려주세요. 저는 7분10초! .... ",
+      "isMe": false,
+      "createdAt": "2024-01-25",
+      "updatedAt": ""
+    },
+    {
+      "id": "2",
+      "title": "전자레인지로 까르보나라 만들기",
+      "content": "전자레인지 용기에 스파게티 면, 소금을 넣고 물을 넉넉히 부어 전자레인지에 8~10분간 조리하여 익힌다. 베이컨은 잘게 썰어 전자레인지에 담아 식용유를 약간 뿌려 2분간 조리한다. ....",
+      "isMe": false,
+      "createdAt": "2024-02-25",
+      "updatedAt": ""
+    },
+    {
+      "id": "3",
+      "title": "순두부 전자레인지 요리",
+      "content": "순두부를 반으로 잘라주고 용기에 넣어주세요 순두부를 먹기좋은 크기로 자른 후 ....",
+      "isMe": false,
+      "createdAt": "2024-02-26",
+      "updatedAt": ""
+    },
+    {
+      "id": "4",
+      "title": "열무 겉절이. 열무 비빔밥",
+      "content": "양념 재료를 미리 배합한다. ...",
+      "isMe": false,
+      "createdAt": "2024-03-01",
+      "updatedAt": ""
+    },
+    {
+      "id": "5",
+      "title": "청경채 요리, 청경채겉절이",
+      "content": "만드는 법은 정말 간단해요. 집에 있던 청경채는 일단 한번 씻어줘야해요 ...",
+      "isMe": false,
+      "createdAt": "2024-03-06",
+      "updatedAt": ""
+    },
+    {
+      "id": "6",
+      "title": "판치노이 쿠키",
+      "content": "버터를 충분히 풀어줍니다.",
+      "isMe": false,
+      "createdAt": "2024-03-12",
+      "updatedAt": ""
+    },
+    {
+      "id": "7",
+      "title": "가지볶음",
+      "content": "가지를 얇게 반달썰기 해주세요",
+      "isMe": false,
+      "createdAt": "2024-03-15",
+      "updatedAt": ""
+    },
+    {
+      "id": "8",
+      "title": "김치 멸치 주먹밥",
+      "content": "을때까지 한 5분 정도 볶아주세요.",
+      "isMe": false,
+      "createdAt": "2024-03-15",
+      "updatedAt": ""
+    },
+    {
+      "id": "9",
+      "title": "쇠고기 꼬치 오븐 구이",
+      "content": "케밥용 쇠고기는 구이용으로 구입하시면 되는데요.",
+      "isMe": false,
+      "createdAt": "2024-04-01",
+      "updatedAt": ""
+    },
+    {
+      "id": "10",
+      "title": "고등어무조림",
+      "content": "고등어는 해동한 뒤 깨끗하게 씻어주세요.",
+      "isMe": false,
+      "createdAt": "2024-04-07",
+      "updatedAt": ""
+    },
+    {
+      "id": "11",
+      "title": "김무침 초간단 밑반찬",
+      "content": "약불로 달궈진 후라이팬에 김을 앞뒤로 한번씩 구워주세요. 그래야 김무침이 더 고소하고 맛있답니다.",
+      "isMe": false,
+      "createdAt": "2024-04-11",
+      "updatedAt": ""
+    },
+    {
+      "id": "12",
+      "title": "진미채(오징어채) 볶음",
+      "content": "진미채한봉지 준비이!!! 요거 하나면 끝이라니께요~ ㅎㅎ",
+      "isMe": false,
+      "createdAt": "2024-04-12",
+      "updatedAt": ""
+    },
+    {
+      "id": "13",
+      "title": "콘치즈토스트",
+      "content": "캔옥수수의 국물을 제거해주세요 저는 급하게 만드느라 국물을 덜 제거했더니 먹을때 국물이 좀 흐르더라구요^^;",
+      "isMe": false,
+      "createdAt": "2024-04-14",
+      "updatedAt": ""
+    },
+    {
+      "id": "14",
+      "title": "오징어실채볶음",
+      "content": "오징어채는 5cm길이로 자르고 뭉친 오징어채를 털어 플어준다.",
+      "isMe": false,
+      "createdAt": "2024-04-21",
+      "updatedAt": ""
+    },
+    {
+      "id": "15",
+      "title": "보쌈 만들기",
+      "content": "국산 돼지고기 삼겹살은 적당한 크기로 썰어주세요.",
+      "isMe": false,
+      "createdAt": "2024-04-22",
+      "updatedAt": ""
+    },
+    {
+      "id": "16",
+      "title": "혼밥:핫케이크핫도그",
+      "content": "소세지를 삶아주세요 -3분정도",
+      "isMe": false,
+      "createdAt": "2024-04-25",
+      "updatedAt": ""
+    },
+    {
+      "id": "17",
+      "title": "손쉽게 만드는 분식집표 떡볶이",
+      "content": "떡볶이떡은 끓는물에 데쳐주세요(990원짜리 샀더니 냉동이드라구요",
+      "isMe": false,
+      "createdAt": "2024-05-12",
+      "updatedAt": ""
+    },
+    {
+      "id": "18",
+      "title": "떡국떡 활용법! 슈가떡",
+      "content": "떡국떡은 물기 없는 상태로 준비하여, 예열된 기름에 떡을 노릇하게 튀겨낸다.",
+      "isMe": false,
+      "createdAt": "2024-05-25",
+      "updatedAt": ""
+    },
+    {
+      "id": "19",
+      "title": "배추물김치, 백김치담그기",
+      "content": "크기도 제각각인 8포기라고 하지만 속이 찬 일반 가을 배추 ...작은 포기 배추 4포기 정도 되는 양이랍니다.",
+      "isMe": false,
+      "createdAt": "2024-05-27",
+      "updatedAt": ""
+    },
+    {
+      "id": "20",
+      "title": "나만의 간장계란밥",
+      "content": "간장 1 스폰 계란 2개",
+      "isMe": false,
+      "createdAt": "2024-05-30",
+      "updatedAt": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "content": "이거 최고 맛있어요",
+      "postId": 1,
+      "isMe": false
+    },
+    {
+      "id": "2",
+      "content": "나는 별로",
+      "postId": 20,
+      "isMe": false
+    },
+    {
+      "id": "3",
+      "content": "판치노이 쿠키 대박",
+      "postId": 6,
+      "isMe": false
+    },
+    {
+      "id": "4",
+      "content": "역시 김치가 최고",
+      "postId": 19,
+      "isMe": false
+    },
+    {
+      "id": "5",
+      "content": "다음에 또 해먹으려구요",
+      "postId": 1,
+      "isMe": false
+    },
+    {
+      "id": "6",
+      "content": "추천합니다",
+      "postId": 15,
+      "isMe": false
+    },
+    {
+      "id": "7",
+      "content": "여름엔 백김치",
+      "postId": 19,
+      "isMe": false
+    },
+    {
+      "id": "8",
+      "content": "혼밥할 때 베스트 음식",
+      "postId": 16,
+      "isMe": false
+    },
+    {
+      "id": "9",
+      "content": "쫄깃합니다",
+      "postId": 14,
+      "isMe": false
+    },
+    {
+      "id": "10",
+      "content": "고소한게 맛나요",
+      "postId": 13,
+      "isMe": false
+    },
+    {
+      "id": "11",
+      "content": "순두부 최고",
+      "postId": 3,
+      "isMe": false
+    },
+    {
+      "id": "12",
+      "content": "청경채 최고",
+      "postId": 5,
+      "isMe": false
+    },
+    {
+      "id": "13",
+      "content": "조금 질겨요",
+      "postId": 15,
+      "isMe": false
+    },
+    {
+      "id": "14",
+      "content": "너무 부드러워요",
+      "postId": 15,
+      "isMe": false
+    },
+    {
+      "id": "15",
+      "content": "맛나요",
+      "postId": 2,
+      "isMe": false
+    },
+    {
+      "id": "16",
+      "content": "꾸덕 까르보나라 최고",
+      "postId": 2,
+      "isMe": false
+    },
+    {
+      "id": "17",
+      "content": "너무 맛나요",
+      "postId": 1,
+      "isMe": false
+    },
+    {
+      "id": "18",
+      "content": "우리 아들이 최고랍니다",
+      "postId": 1,
+      "isMe": false
+    },
+    {
+      "id": "19",
+      "content": "우리 딸이 최고래요",
+      "postId": 4,
+      "isMe": false
+    },
+    {
+      "id": "20",
+      "content": "애기들이 너무 좋아해요",
+      "postId": 18,
+      "isMe": false
+    },
+    {
+      "id": "21",
+      "content": "다음에 또 해야지",
+      "postId": 11,
+      "isMe": false
+    },
+    {
+      "id": "22",
+      "content": "좋아요 눌렀습니다",
+      "postId": 12,
+      "isMe": false
+    },
+    {
+      "id": "23",
+      "content": "저는 좀 별로",
+      "postId": 10,
+      "isMe": false
+    },
+    {
+      "id": "24",
+      "content": "간이 너무 쎄요",
+      "postId": 7,
+      "isMe": false
+    },
+    {
+      "id": "25",
+      "content": "비추",
+      "postId": 6,
+      "isMe": false
+    },
+    {
+      "id": "26",
+      "content": "내 취향은 아닌듯",
+      "postId": 16,
+      "isMe": false
+    },
+    {
+      "id": "27",
+      "content": "너무 맛있어요",
+      "postId": 20,
+      "isMe": false
+    },
+    {
+      "id": 28,
+      "content": "123",
+      "createdAt": "2024-02-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1
+    },
+    {
+      "id": 30,
+      "content": "123",
+      "createdAt": "2024-02-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1
+    },
+    {
+      "id": 31,
+      "content": "123",
+      "createdAt": "2024-02-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1
+    },
+    {
+      "id": 32,
+      "content": "123",
+      "createdAt": "2024-02-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1
+    },
+    {
+      "id": 33,
+      "content": "231232312321123232132323",
+      "createdAt": "2024-02-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1
+    },
+    {
+      "id": 34,
+      "content": "",
+      "createdAt": "2024-02-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1
+    },
+    {
+      "id": 35,
+      "content": "123",
+      "createdAt": "2024-03-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 20,
+      "rating": 0
+    },
+    {
+      "id": 36,
+      "content": "뮨",
+      "createdAt": "2024-03-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
+      "rating": 3
+    },
+    {
+      "id": 37,
+      "content": "123",
+      "createdAt": "2024-03-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
+      "rating": 3
+    },
+    {
+      "id": 38,
+      "content": "ㅋㅋ",
+      "createdAt": "2024-03-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
+      "rating": 4
+    },
+    {
+      "id": 39,
+      "content": "ㅋㅋ",
+      "createdAt": "2024-03-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
+      "rating": 1
+    },
+    {
+      "id": 40,
+      "content": "진짜 대박",
+      "createdAt": "2024-04-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 20,
+      "rating": 3
+    },
+    {
+      "id": 41,
+      "content": "ㅁㅁ",
+      "createdAt": "2024-04-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 20,
+      "rating": 4
+    },
+    {
+      "id": 42,
+      "content": "123",
+      "createdAt": "2024-04-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 20,
+      "rating": 1
+    },
+    {
+      "id": 43,
+      "content": "수정",
+      "createdAt": "2024-04-06",
+      "updatedAt": "2024-06-04",
+      "isMe": true,
+      "postId": 19,
+      "rating": 0
+    }
+  ],
+  "like": []
+}

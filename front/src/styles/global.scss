@@ -1,0 +1,27 @@
+@import './variables';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-optical-sizing: auto;
+}
+
+.back_ground {
+  background-color: skyblue;
+  height: 100vh;
+}
+
+.App {
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: $padding;
+  background-color: $white;
+  text-align: center;
+  overflow: auto;
+}

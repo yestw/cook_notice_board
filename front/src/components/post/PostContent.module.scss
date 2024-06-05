@@ -1,0 +1,43 @@
+@import "../../styles/global.scss";
+
+.cardItemLink {
+  float: left;
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+  width: 200px;
+  height: 100px;
+  -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  border-radius: 10px;
+  overflow: hidden;
+  text-decoration: none;
+  box-shadow: 1px 1px 5px 1px black;
+  color: black;
+  margin: 0 auto;
+  margin: 5px 5px 50px 10px;
+  
+}
+
+.listItemLink {
+  display: flex;
+  flex-flow: column;
+  border-radius: 10px;
+  text-decoration: none;
+  color: black;
+  // box-shadow: 1px 1px 5px 1px black;
+  border-top: 1px solid black;
+}
+
+.cardItemInfo {
+  padding: 20px 30px 20px;
+
+  p {
+    height: 40px;
+  }
+
+  &:hover {
+    background-color: $gray;
+    border: 1px solid skyblue;
+  }
+}

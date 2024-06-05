@@ -1,0 +1,17 @@
+.commentDiv {
+  // display: flex;
+  overflow: auto;
+  // display: table;
+  h3 {
+    text-align: left;
+  }
+}
+
+.commentsItem {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  margin: 0 auto;
+  border-radius: 20px;
+  border: 1px solid black;
+}
