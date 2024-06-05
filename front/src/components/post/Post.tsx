@@ -44,12 +44,14 @@ export const Post = () => {
       updatedAt: moment(new Date()).format('YYYY-DD-MM'),
     }
     const result = await updatePost(postId!, req);
+    alert('수정되었습니다.')
     setPost(result);
     setContent("")
     setTitle("");
   }
 
   const clickDeletePost = async() => {
+    alert('삭제되었습니다.');
     await deletePost(postId!)
     navigate(-1);
   }

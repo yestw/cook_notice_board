@@ -25,6 +25,7 @@ export const CommentContent = ({comment}: Props) => {
       updatedAt: moment(new Date()).format('YYYY-MM-DD'),
     }  
     const result = await patchComment(comment.id, updateReq)
+    alert('수정되었습니다.')
     setCommentContent(result);
     setContent("");
   }
