@@ -164,294 +164,147 @@
   "comments": [
     {
       "id": "1",
-      "content": "이거 최고 맛있어요",
-      "postId": 1,
-      "isMe": false
+      "content": "역시 자취에는 간장계란밥이 최고죠",
+      "createdAt": "2024-05-06",
+      "updatedAt": "2024-06-05",
+      "isMe": true,
+      "postId": 20,
+      "rating": 4
     },
     {
       "id": "2",
-      "content": "나는 별로",
+      "content": "최고 최고!!!",
+      "createdAt": "2024-05-06",
+      "updatedAt": "2024-06-05",
+      "isMe": true,
       "postId": 20,
-      "isMe": false
+      "rating": 2
     },
     {
       "id": "3",
-      "content": "판치노이 쿠키 대박",
-      "postId": 6,
-      "isMe": false
+      "content": "핫도그 최고",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 16,
+      "rating": 5
     },
     {
       "id": "4",
-      "content": "역시 김치가 최고",
-      "postId": 19,
-      "isMe": false
+      "content": "저는 별로,,,",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 17,
+      "rating": 1
     },
     {
       "id": "5",
-      "content": "다음에 또 해먹으려구요",
-      "postId": 1,
-      "isMe": false
+      "content": "밑반찬 너무 맛있어요~",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 11,
+      "rating": 3
     },
     {
       "id": "6",
-      "content": "추천합니다",
+      "content": "보쌈 너무 맛있어요!!",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
       "postId": 15,
-      "isMe": false
+      "rating": 4
     },
     {
       "id": "7",
-      "content": "여름엔 백김치",
-      "postId": 19,
-      "isMe": false
+      "content": "전자레인지로 만들 수 있는 요리 치고는 퀄리티가 최고입니다!",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 3,
+      "rating": 4
     },
     {
       "id": "8",
-      "content": "혼밥할 때 베스트 음식",
-      "postId": 16,
-      "isMe": false
+      "content": "너무 간단하고 좋아요 최고~",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 13,
+      "rating": 4
     },
     {
       "id": "9",
-      "content": "쫄깃합니다",
-      "postId": 14,
-      "isMe": false
+      "content": "해장에 최고입니다!",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 1,
+      "rating": 4
     },
     {
       "id": "10",
-      "content": "고소한게 맛나요",
-      "postId": 13,
-      "isMe": false
+      "content": "한국은 김치죠",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
+      "rating": 4
     },
     {
       "id": "11",
-      "content": "순두부 최고",
-      "postId": 3,
-      "isMe": false
+      "content": "진짜 사먹는 건줄 알았어요 너무 맛있어요",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 2,
+      "rating": 4
     },
     {
       "id": "12",
-      "content": "청경채 최고",
-      "postId": 5,
-      "isMe": false
+      "content": "저는 너무 느끼하더라구요",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 2,
+      "rating": 2
     },
     {
       "id": "13",
-      "content": "조금 질겨요",
-      "postId": 15,
-      "isMe": false
+      "content": "맛있어요!",
+      "createdAt": "2024-05-06",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 2,
+      "rating": 3
     },
     {
       "id": "14",
-      "content": "너무 부드러워요",
+      "content": "너무 질겨요 시간 조절 잘하세요",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
       "postId": 15,
-      "isMe": false
+      "rating": 2
     },
     {
       "id": "15",
-      "content": "맛나요",
-      "postId": 2,
-      "isMe": false
-    },
-    {
-      "id": "16",
-      "content": "꾸덕 까르보나라 최고",
-      "postId": 2,
-      "isMe": false
-    },
-    {
-      "id": "17",
-      "content": "너무 맛나요",
-      "postId": 1,
-      "isMe": false
-    },
-    {
-      "id": "18",
-      "content": "우리 아들이 최고랍니다",
-      "postId": 1,
-      "isMe": false
-    },
-    {
-      "id": "19",
-      "content": "우리 딸이 최고래요",
-      "postId": 4,
-      "isMe": false
-    },
-    {
-      "id": "20",
-      "content": "애기들이 너무 좋아해요",
-      "postId": 18,
-      "isMe": false
-    },
-    {
-      "id": "21",
-      "content": "다음에 또 해야지",
-      "postId": 11,
-      "isMe": false
-    },
-    {
-      "id": "22",
-      "content": "좋아요 눌렀습니다",
-      "postId": 12,
-      "isMe": false
-    },
-    {
-      "id": "23",
-      "content": "저는 좀 별로",
-      "postId": 10,
-      "isMe": false
-    },
-    {
-      "id": "24",
-      "content": "간이 너무 쎄요",
-      "postId": 7,
-      "isMe": false
-    },
-    {
-      "id": "25",
-      "content": "비추",
-      "postId": 6,
-      "isMe": false
-    },
-    {
-      "id": "26",
-      "content": "내 취향은 아닌듯",
-      "postId": 16,
-      "isMe": false
-    },
-    {
-      "id": "27",
-      "content": "너무 맛있어요",
-      "postId": 20,
-      "isMe": false
-    },
-    {
-      "id": 28,
-      "content": "123",
-      "createdAt": "2024-02-06",
+      "content": "맛나요!",
+      "createdAt": "2024-06-05",
       "updatedAt": "",
       "isMe": true,
-      "postId": 1
-    },
-    {
-      "id": 30,
-      "content": "123",
-      "createdAt": "2024-02-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 1
-    },
-    {
-      "id": 31,
-      "content": "123",
-      "createdAt": "2024-02-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 1
-    },
-    {
-      "id": 32,
-      "content": "123",
-      "createdAt": "2024-02-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 1
-    },
-    {
-      "id": 33,
-      "content": "231232312321123232132323",
-      "createdAt": "2024-02-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 1
-    },
-    {
-      "id": 34,
-      "content": "",
-      "createdAt": "2024-02-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 1
-    },
-    {
-      "id": 35,
-      "content": "123",
-      "createdAt": "2024-03-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 20,
-      "rating": 0
-    },
-    {
-      "id": 36,
-      "content": "뮨",
-      "createdAt": "2024-03-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 19,
-      "rating": 3
-    },
-    {
-      "id": 37,
-      "content": "123",
-      "createdAt": "2024-03-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 19,
-      "rating": 3
-    },
-    {
-      "id": 38,
-      "content": "ㅋㅋ",
-      "createdAt": "2024-03-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 19,
+      "postId": 15,
       "rating": 4
     },
     {
-      "id": 39,
-      "content": "ㅋㅋ",
-      "createdAt": "2024-03-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 19,
-      "rating": 1
-    },
-    {
-      "id": 40,
-      "content": "진짜 대박",
-      "createdAt": "2024-04-06",
+      "id": 16,
+      "content": "최고!",
+      "createdAt": "2024-06-05",
       "updatedAt": "",
       "isMe": true,
       "postId": 20,
       "rating": 3
-    },
-    {
-      "id": 41,
-      "content": "ㅁㅁ",
-      "createdAt": "2024-04-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 20,
-      "rating": 4
-    },
-    {
-      "id": 42,
-      "content": "123",
-      "createdAt": "2024-04-06",
-      "updatedAt": "",
-      "isMe": true,
-      "postId": 20,
-      "rating": 1
-    },
-    {
-      "id": 43,
-      "content": "수정",
-      "createdAt": "2024-04-06",
-      "updatedAt": "2024-06-04",
-      "isMe": true,
-      "postId": 19,
-      "rating": 0
     }
   ],
   "like": []
