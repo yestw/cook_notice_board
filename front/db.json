@@ -159,6 +159,14 @@
       "isMe": false,
       "createdAt": "2024-05-30",
       "updatedAt": ""
+    },
+    {
+      "id": 21,
+      "title": "나만의 라면",
+      "content": "자기가 가장 좋아하는 라면과 물 500ml",
+      "isMe": true,
+      "createdAt": "2024-06-05",
+      "updatedAt": ""
     }
   ],
   "comments": [
@@ -304,6 +312,132 @@
       "updatedAt": "",
       "isMe": true,
       "postId": 20,
+      "rating": 3
+    },
+    {
+      "id": 17,
+      "content": "너무 맛있어요~",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 17,
+      "rating": 4
+    },
+    {
+      "id": 18,
+      "content": "밥반찬으로 최고!",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 14,
+      "rating": 4
+    },
+    {
+      "id": 19,
+      "content": "너무 짜요 ㅜ",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 14,
+      "rating": 2
+    },
+    {
+      "id": 20,
+      "content": "이건 좀,,",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 21,
+      "rating": 1
+    },
+    {
+      "id": 21,
+      "content": "여름엔 열무!",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 4,
+      "rating": 3
+    },
+    {
+      "id": 22,
+      "content": "간식으로 최고",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 6,
+      "rating": 4
+    },
+    {
+      "id": 23,
+      "content": "너무 맛있어요~",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 6,
+      "rating": 5
+    },
+    {
+      "id": 24,
+      "content": "최고!!",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 6,
+      "rating": 3
+    },
+    {
+      "id": 25,
+      "content": "너무 달아요 ㅜ",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 18,
+      "rating": 1
+    },
+    {
+      "id": 26,
+      "content": "너무 맛있어요! 저는 베이컨도 넣었는데 좋더라구요",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 13,
+      "rating": 4
+    },
+    {
+      "id": 27,
+      "content": "너무 번거로워요 차라리 시켜먹을듯",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 9,
+      "rating": 1
+    },
+    {
+      "id": 28,
+      "content": "맛있어요~~",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 9,
+      "rating": 4
+    },
+    {
+      "id": 29,
+      "content": "시원하고 맛있어요!",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
+      "rating": 4
+    },
+    {
+      "id": 30,
+      "content": "친척들이랑 하기 좋네요",
+      "createdAt": "2024-06-05",
+      "updatedAt": "",
+      "isMe": true,
+      "postId": 19,
       "rating": 3
     }
   ],
