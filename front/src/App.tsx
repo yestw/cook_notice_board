@@ -6,7 +6,6 @@ import { Posts } from './components/post/Posts'
 import { NotFound } from './pages/NotFound'
 import { Post } from './components/post/Post'
 import { PostInputForm } from './components/post/PostInputForm'
-import { Error } from './components/common/Error'
 
 const App = () => {
   return (
@@ -21,7 +20,6 @@ const App = () => {
               <Route path="/post/:postId" element={<Post />} />
               <Route path="/post-create" element={<PostInputForm />} />
               <Route path="*" element={<NotFound />}/>
-              <Route path="/error" element={<Error />} />
             </Routes>
           </section>
         </div>
