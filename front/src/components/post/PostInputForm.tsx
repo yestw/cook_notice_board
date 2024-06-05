@@ -13,7 +13,6 @@ export const PostInputForm = () => {
 
   useEffect(() => {
     getPostId();
-    console.log(postId);
   }, [])
 
   const getPostId = async () => {
