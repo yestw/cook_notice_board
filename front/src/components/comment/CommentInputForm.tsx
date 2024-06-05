@@ -34,7 +34,7 @@ export const CommentInputForm = ({setComments, postId, comments}: Props) => {
   }, [comments])
 
   const settingId = async () => {
-    const id = await commentsSize()+1;
+    const id: number = parseInt(await commentsSize()) < 0 ? 0 : parseInt(await commentsSize()) +1;
     setId(id);
   }
 
@@ -42,12 +42,10 @@ export const CommentInputForm = ({setComments, postId, comments}: Props) => {
     if(content === "") {
       return alert('댓글을 입력해야 합니다.');
     }
-    console.log(id);
-    // console.log(rating);
     const newComment: CommentCreateRequest = {
       id,
       content,
-      createdAt: moment(new Date()).format('YYYY-DD-MM'),
+      createdAt: moment(new Date()).format('YYYY-MM-DD'),
       updatedAt: "",
       isMe: true,
       postId: parseInt(postId),
@@ -56,6 +54,8 @@ export const CommentInputForm = ({setComments, postId, comments}: Props) => {
     const res = await postComment(newComment);
     setComments((prevComments) => [...prevComments, res]);
     setContent("");
+    setRating(0);
+    setScore([])
   }
 
   const clickRating = (index: number) => {
